@@ -98,5 +98,5 @@ The script results in the creation of a number of files in the directory:
 
 ## Credits <a name="credits"></a>
 
-* Davide Dalla Stella, [dallastella.davide@gmail.com](mailto:dallastella.davide@gmail.com)
+* Davide Dalla Stella, [GitHub](https://github.com/fromstar) [dallastella.davide@gmail.com](mailto:dallastella.davide@gmail.com) 
 * Marco Dalla Stella, [md3934@columbia.edu](mailto:md3934@columbia.edu)
